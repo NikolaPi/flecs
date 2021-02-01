@@ -1,5 +1,5 @@
 #ifndef FLECS_IMPL
-#include "flecs.h"
+#include "core/flecs.h"
 #endif
 #ifndef FLECS_PRIVATE_H
 #define FLECS_PRIVATE_H
